@@ -1,0 +1,1 @@
+ansible targes_server* -m ping -i inventory.txt { run this command to test the connectivity bitween servers }
