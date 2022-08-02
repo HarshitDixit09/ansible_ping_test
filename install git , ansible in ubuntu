@@ -1,0 +1,7 @@
+sudo apt-get update { update the ubuntu }
+sudo apt install git { install git } 
+git --version { check version }
+
+
+sudo apt install ansible { install ansible}
+ansible { to verify if it installed or not } 
